@@ -121,7 +121,7 @@ trabajadores en materia de Prevención.
 1981-1986 
 :	***Acceso a la Universidad. Ingeniería Técnica Industrial.***  
 *Universidad de Santiago de Compostela.*  
-	- Estudios superados de Bachillerato, COU y Selectividad. 
+	- Estudios de Bachillerato, COU y Selectividad. 
     - Acceso a la Universidad. 
     - Estudios de Ingeniería Técnica Industrial.
 
