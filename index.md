@@ -1,3 +1,10 @@
+---
+layout: page
+title: Presentación
+---
+
+<hr size="5px" color="#268BD4" />
+
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Aula Virtual: [aula.jrgarcia.es](https://aula.jrgarcia.es/){:target="_blank"} (Restringida)   
 
 <hr size="5px" color="#268BD4" />
